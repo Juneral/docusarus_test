@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Docusaurus changelog</title>
-        <link>https://docusaurus.io/changelog</link>
+        <link>https://juneral.github.io/changelog</link>
         <description>Keep yourself up-to-date about new features in every release</description>
         <lastBuildDate>Thu, 14 Jul 2022 20:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -11,7 +11,7 @@
         <copyright>Copyright © 2022 Facebook, Inc.</copyright>
         <item>
             <title><![CDATA[2.0.0-rc.1]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-rc.1</link>
+            <link>https://juneral.github.io/changelog/2.0.0-rc.1</link>
             <guid>/2.0.0-rc.1</guid>
             <pubDate>Thu, 14 Jul 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[Bug Fix]]></description>
@@ -19,7 +19,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.22]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.22</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.22</link>
             <guid>/2.0.0-beta.22</guid>
             <pubDate>Fri, 08 Jul 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[Breaking Change]]></description>
@@ -27,7 +27,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.21]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.21</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.21</link>
             <guid>/2.0.0-beta.21</guid>
             <pubDate>Fri, 27 May 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[Breaking Change]]></description>
@@ -35,7 +35,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.20]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.20</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.20</link>
             <guid>/2.0.0-beta.20</guid>
             <pubDate>Thu, 05 May 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[Bug Fix]]></description>
@@ -43,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.19]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.19</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.19</link>
             <guid>/2.0.0-beta.19</guid>
             <pubDate>Wed, 04 May 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -51,7 +51,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.18]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.18</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.18</link>
             <guid>/2.0.0-beta.18</guid>
             <pubDate>Fri, 25 Mar 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -59,7 +59,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.17]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.17</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.17</link>
             <guid>/2.0.0-beta.17</guid>
             <pubDate>Thu, 03 Mar 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -67,7 +67,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.16]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.16</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.16</link>
             <guid>/2.0.0-beta.16</guid>
             <pubDate>Fri, 25 Feb 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -75,7 +75,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.15]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.15</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.15</link>
             <guid>/2.0.0-beta.15</guid>
             <pubDate>Wed, 26 Jan 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -83,7 +83,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.14]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.14</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.14</link>
             <guid>/2.0.0-beta.14</guid>
             <pubDate>Tue, 21 Dec 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -91,7 +91,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.13]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.13</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.13</link>
             <guid>/2.0.0-beta.13</guid>
             <pubDate>Fri, 10 Dec 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[Good npm publish, same code as beta.11]]></description>
@@ -99,7 +99,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.12]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.12</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.12</link>
             <guid>/2.0.0-beta.12</guid>
             <pubDate>Fri, 10 Dec 2021 19:00:00 GMT</pubDate>
             <description><![CDATA[Bad npm publish, use beta.13 instead]]></description>
@@ -107,7 +107,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.11]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.11</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.11</link>
             <guid>/2.0.0-beta.11</guid>
             <pubDate>Fri, 10 Dec 2021 18:00:00 GMT</pubDate>
             <description><![CDATA[Bug Fix]]></description>
@@ -115,7 +115,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.10]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.10</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.10</link>
             <guid>/2.0.0-beta.10</guid>
             <pubDate>Thu, 09 Dec 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -123,7 +123,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.9]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.9</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.9</link>
             <guid>/2.0.0-beta.9</guid>
             <pubDate>Tue, 02 Nov 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -131,7 +131,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.8]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.8</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.8</link>
             <guid>/2.0.0-beta.8</guid>
             <pubDate>Thu, 21 Oct 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -139,7 +139,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.7]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.7</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.7</link>
             <guid>/2.0.0-beta.7</guid>
             <pubDate>Fri, 15 Oct 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -147,7 +147,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.6]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.6</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.6</link>
             <guid>/2.0.0-beta.6</guid>
             <pubDate>Thu, 02 Sep 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -155,7 +155,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.5]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.5</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.5</link>
             <guid>/2.0.0-beta.5</guid>
             <pubDate>Thu, 26 Aug 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -163,7 +163,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.4]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.4</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.4</link>
             <guid>/2.0.0-beta.4</guid>
             <pubDate>Wed, 28 Jul 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -171,7 +171,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.3]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.3</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.3</link>
             <guid>/2.0.0-beta.3</guid>
             <pubDate>Wed, 30 Jun 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -179,7 +179,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.2]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.2</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.2</link>
             <guid>/2.0.0-beta.2</guid>
             <pubDate>Thu, 24 Jun 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -187,7 +187,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.1]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.1</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.1</link>
             <guid>/2.0.0-beta.1</guid>
             <pubDate>Fri, 18 Jun 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -195,7 +195,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.0]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-beta.0</link>
+            <link>https://juneral.github.io/changelog/2.0.0-beta.0</link>
             <guid>/2.0.0-beta.0</guid>
             <pubDate>Wed, 12 May 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[Read the 2.0.0 beta blog post!]]></description>
@@ -203,7 +203,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.75]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.75</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.75</link>
             <guid>/2.0.0-alpha.75</guid>
             <pubDate>Fri, 30 Apr 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[Breaking Change]]></description>
@@ -211,7 +211,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.74]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.74</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.74</link>
             <guid>/2.0.0-alpha.74</guid>
             <pubDate>Tue, 27 Apr 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -219,7 +219,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.73]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.73</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.73</link>
             <guid>/2.0.0-alpha.73</guid>
             <pubDate>Fri, 16 Apr 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -227,7 +227,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.72]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.72</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.72</link>
             <guid>/2.0.0-alpha.72</guid>
             <pubDate>Tue, 16 Mar 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[Breaking Change]]></description>
@@ -235,7 +235,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.71]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.71</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.71</link>
             <guid>/2.0.0-alpha.71</guid>
             <pubDate>Tue, 09 Mar 2021 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -243,7 +243,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.70]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.70</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.70</link>
             <guid>/2.0.0-alpha.70</guid>
             <pubDate>Thu, 17 Dec 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -251,7 +251,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.69]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.69</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.69</link>
             <guid>/2.0.0-alpha.69</guid>
             <pubDate>Tue, 24 Nov 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -259,7 +259,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.68]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.68</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.68</link>
             <guid>/2.0.0-alpha.68</guid>
             <pubDate>Wed, 18 Nov 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -267,7 +267,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.67]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.67</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.67</link>
             <guid>/2.0.0-alpha.67</guid>
             <pubDate>Wed, 18 Nov 2020 19:00:00 GMT</pubDate>
             <description><![CDATA[Failed release]]></description>
@@ -275,7 +275,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.66]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.66</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.66</link>
             <guid>/2.0.0-alpha.66</guid>
             <pubDate>Mon, 19 Oct 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -283,7 +283,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.65]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.65</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.65</link>
             <guid>/2.0.0-alpha.65</guid>
             <pubDate>Fri, 02 Oct 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -291,7 +291,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.64]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.64</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.64</link>
             <guid>/2.0.0-alpha.64</guid>
             <pubDate>Fri, 11 Sep 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -299,7 +299,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.63]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.63</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.63</link>
             <guid>/2.0.0-alpha.63</guid>
             <pubDate>Thu, 03 Sep 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -307,7 +307,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.62]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.62</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.62</link>
             <guid>/2.0.0-alpha.62</guid>
             <pubDate>Fri, 28 Aug 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -315,7 +315,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.61]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.61</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.61</link>
             <guid>/2.0.0-alpha.61</guid>
             <pubDate>Sat, 01 Aug 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -323,7 +323,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.60]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.60</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.60</link>
             <guid>/2.0.0-alpha.60</guid>
             <pubDate>Wed, 29 Jul 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -331,7 +331,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.59]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.59</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.59</link>
             <guid>/2.0.0-alpha.59</guid>
             <pubDate>Fri, 24 Jul 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -339,7 +339,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.58]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.58</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.58</link>
             <guid>/2.0.0-alpha.58</guid>
             <pubDate>Thu, 18 Jun 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -347,7 +347,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.57]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.57</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.57</link>
             <guid>/2.0.0-alpha.57</guid>
             <pubDate>Thu, 18 Jun 2020 19:00:00 GMT</pubDate>
             <description><![CDATA[Bad release, check ## 2.0.0-alpha.58]]></description>
@@ -355,7 +355,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.56]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.56</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.56</link>
             <guid>/2.0.0-alpha.56</guid>
             <pubDate>Thu, 28 May 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[Breaking Change]]></description>
@@ -363,7 +363,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.55]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.55</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.55</link>
             <guid>/2.0.0-alpha.55</guid>
             <pubDate>Tue, 19 May 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[Breaking Change]]></description>
@@ -371,7 +371,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.54]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.54</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.54</link>
             <guid>/2.0.0-alpha.54</guid>
             <pubDate>Tue, 28 Apr 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[HOTFIX for 2.0.0-alpha.53.]]></description>
@@ -379,7 +379,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.53]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.53</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.53</link>
             <guid>/2.0.0-alpha.53</guid>
             <pubDate>Mon, 27 Apr 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[HOTFIX for 2.0.0-alpha.51.]]></description>
@@ -387,7 +387,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.51]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.51</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.51</link>
             <guid>/2.0.0-alpha.51</guid>
             <pubDate>Mon, 27 Apr 2020 19:00:00 GMT</pubDate>
             <description><![CDATA[Breaking Change]]></description>
@@ -395,7 +395,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.50]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.50</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.50</link>
             <guid>/2.0.0-alpha.50</guid>
             <pubDate>Thu, 02 Apr 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[HOTFIX for 2.0.0-alpha.49.]]></description>
@@ -403,7 +403,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.49]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.49</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.49</link>
             <guid>/2.0.0-alpha.49</guid>
             <pubDate>Wed, 01 Apr 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -411,7 +411,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.48]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.48</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.48</link>
             <guid>/2.0.0-alpha.48</guid>
             <pubDate>Sun, 08 Mar 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[HOTFIX for 2.0.0-alpha.44.]]></description>
@@ -419,7 +419,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.44]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.44</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.44</link>
             <guid>/2.0.0-alpha.44</guid>
             <pubDate>Sun, 08 Mar 2020 19:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -427,7 +427,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.43]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.43</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.43</link>
             <guid>/2.0.0-alpha.43</guid>
             <pubDate>Tue, 18 Feb 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[HOTFIX for 2.0.0-alpha.41.]]></description>
@@ -435,7 +435,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.41]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.41</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.41</link>
             <guid>/2.0.0-alpha.41</guid>
             <pubDate>Sun, 16 Feb 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -443,7 +443,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.40]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.40</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.40</link>
             <guid>/2.0.0-alpha.40</guid>
             <pubDate>Wed, 25 Dec 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -451,7 +451,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.39]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.39</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.39</link>
             <guid>/2.0.0-alpha.39</guid>
             <pubDate>Sat, 07 Dec 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[Bug Fix]]></description>
@@ -459,7 +459,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.38]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.38</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.38</link>
             <guid>/2.0.0-alpha.38</guid>
             <pubDate>Fri, 06 Dec 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[Breaking Change]]></description>
@@ -467,7 +467,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.37]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.37</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.37</link>
             <guid>/2.0.0-alpha.37</guid>
             <pubDate>Sun, 01 Dec 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[Breaking Change]]></description>
@@ -475,7 +475,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.36]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.36</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.36</link>
             <guid>/2.0.0-alpha.36</guid>
             <pubDate>Fri, 22 Nov 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[Breaking Change]]></description>
@@ -483,7 +483,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.35]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.35</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.35</link>
             <guid>/2.0.0-alpha.35</guid>
             <pubDate>Sun, 17 Nov 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -491,7 +491,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.34]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.34</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.34</link>
             <guid>/2.0.0-alpha.34</guid>
             <pubDate>Mon, 11 Nov 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
@@ -499,7 +499,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.33]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.33</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.33</link>
             <guid>/2.0.0-alpha.33</guid>
             <pubDate>Fri, 08 Nov 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[Features]]></description>
@@ -507,7 +507,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.32]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.32</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.32</link>
             <guid>/2.0.0-alpha.32</guid>
             <pubDate>Mon, 04 Nov 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[Features]]></description>
@@ -515,7 +515,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.31]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.31</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.31</link>
             <guid>/2.0.0-alpha.31</guid>
             <pubDate>Sat, 26 Oct 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[- Footer is now sticky/ pinned to the bottom of the viewport in desktop browsers.]]></description>
@@ -523,7 +523,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.30]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.30</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.30</link>
             <guid>/2.0.0-alpha.30</guid>
             <pubDate>Tue, 22 Oct 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[- Fix babel transpilation include/exclude logic to be more efficient. This also fix a very weird bug TypeError: Cannot assign to read only property 'exports' of object '#'.(#1868)]]></description>
@@ -531,7 +531,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.29]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.29</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.29</link>
             <guid>/2.0.0-alpha.29</guid>
             <pubDate>Mon, 21 Oct 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[HOTFIX for 2.0.0-alpha.28.]]></description>
@@ -539,7 +539,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.28]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.28</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.28</link>
             <guid>/2.0.0-alpha.28</guid>
             <pubDate>Mon, 21 Oct 2019 19:00:00 GMT</pubDate>
             <description><![CDATA[- Further reduce memory usage to avoid heap memory allocation failure.]]></description>
@@ -547,7 +547,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.27]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.27</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.27</link>
             <guid>/2.0.0-alpha.27</guid>
             <pubDate>Mon, 14 Oct 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[- Add @theme/Tabs which can be used to implement multi-language code tabs.]]></description>
@@ -555,7 +555,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.26]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.26</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.26</link>
             <guid>/2.0.0-alpha.26</guid>
             <pubDate>Sat, 12 Oct 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[- Docs, pages plugin is rewritten in TypeScript]]></description>
@@ -563,7 +563,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.25]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.25</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.25</link>
             <guid>/2.0.0-alpha.25</guid>
             <pubDate>Tue, 01 Oct 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[- Blog plugin is rewritten in TypeScript and can now support CJK]]></description>
@@ -571,7 +571,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.24]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.24</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.24</link>
             <guid>/2.0.0-alpha.24</guid>
             <pubDate>Wed, 24 Jul 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[- Remove unused metadata for pages. This minimize number of http request & smaller bundle size.]]></description>
@@ -579,7 +579,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.23]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.23</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.23</link>
             <guid>/2.0.0-alpha.23</guid>
             <pubDate>Sun, 21 Jul 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[- Fix docusaurus route config generation for certain edge case]]></description>
@@ -587,7 +587,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.22]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.22</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.22</link>
             <guid>/2.0.0-alpha.22</guid>
             <pubDate>Sat, 20 Jul 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[- Add missing dependencies on @docusaurus/preset-classic]]></description>
@@ -595,7 +595,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.21]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.21</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.21</link>
             <guid>/2.0.0-alpha.21</guid>
             <pubDate>Sun, 14 Jul 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[- Fix babel-loader not transpiling docusaurus package]]></description>
@@ -603,7 +603,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.20]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.20</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.20</link>
             <guid>/2.0.0-alpha.20</guid>
             <pubDate>Sun, 14 Jul 2019 19:00:00 GMT</pubDate>
             <description><![CDATA[- Add copy codeblock button]]></description>
@@ -611,7 +611,7 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-alpha.19]]></title>
-            <link>https://docusaurus.io/changelog/2.0.0-alpha.19</link>
+            <link>https://juneral.github.io/changelog/2.0.0-alpha.19</link>
             <guid>/2.0.0-alpha.19</guid>
             <pubDate>Fri, 07 Jun 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[- Add a sensible default for browserslist config.]]></description>
@@ -619,7 +619,7 @@
         </item>
         <item>
             <title><![CDATA[V2 Changelog]]></title>
-            <link>https://docusaurus.io/changelog/V2 Changelog</link>
+            <link>https://juneral.github.io/changelog/V2 Changelog</link>
             <guid>/V2 Changelog</guid>
             <pubDate>Wed, 10 Apr 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[siteConfig.js changes]]></description>
