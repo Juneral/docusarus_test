@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[65113],{56220:e=>{e.exports=JSON.parse('{"label":"endi","permalink":"/blog/tags/endi","allTagsPath":"/blog/tags","count":1}')}}]);
