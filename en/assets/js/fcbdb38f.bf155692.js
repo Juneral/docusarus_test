@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[26315],{10120:e=>{e.exports=JSON.parse('{"label":"endi","permalink":"/docusarus_test/en/blog/tags/endi","allTagsPath":"/docusarus_test/en/blog/tags","count":1}')}}]);
