@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[35912],{17514:e=>{e.exports=JSON.parse('{"permalink":"/docusarus_test/zh-CN/blog/tags/recap","page":1,"postsPerPage":5,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

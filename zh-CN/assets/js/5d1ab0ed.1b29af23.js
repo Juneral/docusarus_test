@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[98418],{70140:s=>{s.exports=JSON.parse('{"label":"long-long","permalink":"/docusarus_test/zh-CN/tests/blog/tags/long-long","allTagsPath":"/docusarus_test/zh-CN/tests/blog/tags","count":3}')}}]);

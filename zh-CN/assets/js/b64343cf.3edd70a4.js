@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[30923],{40833:t=>{t.exports=JSON.parse('{"permalink":"/docusarus_test/zh-CN/tests/blog/tags/paginated-tag","page":1,"postsPerPage":3,"totalPages":4,"totalCount":10,"nextPage":"/docusarus_test/zh-CN/tests/blog/tags/paginated-tag/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
