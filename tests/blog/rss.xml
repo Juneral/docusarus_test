@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Docusaurus Tests Blog</title>
-        <link>https://juneral.github.io/tests/blog</link>
+        <link>https://juneral.github.io/docusarus_test/tests/blog</link>
         <description>Docusaurus Blog</description>
         <lastBuildDate>Mon, 03 Aug 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -11,7 +11,7 @@
         <copyright>Copyright © 2022 Facebook, Inc.</copyright>
         <item>
             <title><![CDATA[Using twice the blog plugin]]></title>
-            <link>https://juneral.github.io/tests/blog/2020/08/03/demo/second-blog-intro</link>
+            <link>https://juneral.github.io/docusarus_test/tests/blog/2020/08/03/demo/second-blog-intro</link>
             <guid>/2020/08/03/demo/second-blog-intro</guid>
             <pubDate>Mon, 03 Aug 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Did you know you can use multiple instances of the same plugin?]]></description>
@@ -22,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Blog TOC FrontMatter tests]]></title>
-            <link>https://juneral.github.io/tests/blog/2021/08/21/blog-post-toc-tests</link>
+            <link>https://juneral.github.io/docusarus_test/tests/blog/2021/08/21/blog-post-toc-tests</link>
             <guid>/2021/08/21/blog-post-toc-tests</guid>
             <pubDate>Sat, 21 Aug 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<h1>title</h1><p>some text</p><h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="section-1">section 1<a class="hash-link" href="#section-1" title="Direct link to heading">​</a></h2><p>some text</p><h3 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="subsection-1-1">subsection 1-1<a class="hash-link" href="#subsection-1-1" title="Direct link to heading">​</a></h3><p>some text</p><h4 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="subsection-1-1-1">subsection 1-1-1<a class="hash-link" href="#subsection-1-1-1" title="Direct link to heading">​</a></h4><p>some text</p><h5 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="subsection-1-1-1-1">subsection 1-1-1-1<a class="hash-link" href="#subsection-1-1-1-1" title="Direct link to heading">​</a></h5><p>some text</p><h6 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="subsection-1-1-1-1-1">subsection 1-1-1-1-1<a class="hash-link" href="#subsection-1-1-1-1-1" title="Direct link to heading">​</a></h6><p>some text</p><h6 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="subsection-1-1-1-1-2">subsection 1-1-1-1-2<a class="hash-link" href="#subsection-1-1-1-1-2" title="Direct link to heading">​</a></h6><p>some text</p><h5 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="subsection-1-1-1-2">subsection 1-1-1-2<a class="hash-link" href="#subsection-1-1-1-2" title="Direct link to heading">​</a></h5><p>some text</p><h4 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="subsection-1-1-2">subsection 1-1-2<a class="hash-link" href="#subsection-1-1-2" title="Direct link to heading">​</a></h4><p>some text</p><h3 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="subsection-1-2">subsection 1-2<a class="hash-link" href="#subsection-1-2" title="Direct link to heading">​</a></h3><p>some text</p><h3 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="subsection-1-3">subsection 1-3<a class="hash-link" href="#subsection-1-3" title="Direct link to heading">​</a></h3><p>some text</p><h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="section-2">section 2<a class="hash-link" href="#section-2" title="Direct link to heading">​</a></h2><p>some text</p><h3 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="subsection-2-1">subsection 2-1<a class="hash-link" href="#subsection-2-1" title="Direct link to heading">​</a></h3><p>some text</p><h3 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="subsection-2-1-1">subsection 2-1<a class="hash-link" href="#subsection-2-1-1" title="Direct link to heading">​</a></h3><p>some text</p><h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="section-3">section 3<a class="hash-link" href="#section-3" title="Direct link to heading">​</a></h2><p>some text</p><h3 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="subsection-3-1">subsection 3-1<a class="hash-link" href="#subsection-3-1" title="Direct link to heading">​</a></h3><p>some text</p><h3 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="subsection-3-2">subsection 3-2<a class="hash-link" href="#subsection-3-2" title="Direct link to heading">​</a></h3><p>some text</p>]]></content:encoded>
@@ -30,7 +30,7 @@
         </item>
         <item>
             <title><![CDATA[Hmmm!]]></title>
-            <link>https://juneral.github.io/tests/blog/2021/08/22/no-author</link>
+            <link>https://juneral.github.io/docusarus_test/tests/blog/2021/08/22/no-author</link>
             <guid>/2021/08/22/no-author</guid>
             <pubDate>Sun, 22 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[This is a blog post from an anonymous author!]]></description>
@@ -39,7 +39,7 @@
         </item>
         <item>
             <title><![CDATA[Multiple authors]]></title>
-            <link>https://juneral.github.io/tests/blog/2021/08/23/multiple-authors</link>
+            <link>https://juneral.github.io/docusarus_test/tests/blog/2021/08/23/multiple-authors</link>
             <guid>/2021/08/23/multiple-authors</guid>
             <pubDate>Mon, 23 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[You can have multiple authors for one blog post!]]></description>
@@ -55,17 +55,17 @@
         </item>
         <item>
             <title><![CDATA[Post with duplicate title]]></title>
-            <link>https://juneral.github.io/tests/blog/2021/09/13/dup-title</link>
+            <link>https://juneral.github.io/docusarus_test/tests/blog/2021/09/13/dup-title</link>
             <guid>/2021/09/13/dup-title</guid>
             <pubDate>Mon, 13 Sep 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[See https://github.com/facebook/docusaurus/issues/6059. This one and 2021-11-13-dup-title.md should both show up.]]></description>
-            <content:encoded><![CDATA[<p>See <a href="https://github.com/facebook/docusaurus/issues/6059" target="_blank" rel="noopener noreferrer">https://github.com/facebook/docusaurus/issues/6059</a>. This one and <a href="/tests/blog/2021/11/13/dup-title">2021-11-13-dup-title.md</a> should both show up.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>See <a href="https://github.com/facebook/docusaurus/issues/6059" target="_blank" rel="noopener noreferrer">https://github.com/facebook/docusaurus/issues/6059</a>. This one and <a href="/docusarus_test/tests/blog/2021/11/13/dup-title">2021-11-13-dup-title.md</a> should both show up.</p>]]></content:encoded>
             <author>sidechen2003@gmail.com (Josh-Cena4)</author>
             <category>paginated-tag</category>
         </item>
         <item>
             <title><![CDATA[Blog post MDX Feed tests]]></title>
-            <link>https://juneral.github.io/tests/blog/2021/10/07/blog-post-mdx-feed-tests</link>
+            <link>https://juneral.github.io/docusarus_test/tests/blog/2021/10/07/blog-post-mdx-feed-tests</link>
             <guid>/2021/10/07/blog-post-mdx-feed-tests</guid>
             <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Some MDX tests, mostly to test how the RSS feed render those]]></description>
@@ -79,11 +79,11 @@
         </item>
         <item>
             <title><![CDATA[Blog post MDX require Feed tests]]></title>
-            <link>https://juneral.github.io/tests/blog/2021/10/08/blog-post-mdx-require-feed-tests</link>
+            <link>https://juneral.github.io/docusarus_test/tests/blog/2021/10/08/blog-post-mdx-require-feed-tests</link>
             <guid>/2021/10/08/blog-post-mdx-require-feed-tests</guid>
             <pubDate>Fri, 08 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Some MDX tests, mostly to test how the RSS feed render those]]></description>
-            <content:encoded><![CDATA[<p>Some MDX tests, mostly to test how the RSS feed render those</p><p>Test MDX with require calls</p><img loading="lazy" src="/img/docusaurus.png" class="img_vXGZ"><img loading="lazy" class="img_vXGZ"><img loading="lazy" class="img_vXGZ">]]></content:encoded>
+            <content:encoded><![CDATA[<p>Some MDX tests, mostly to test how the RSS feed render those</p><p>Test MDX with require calls</p><img loading="lazy" src="/docusarus_test/img/docusaurus.png" class="img_vXGZ"><img loading="lazy" class="img_vXGZ"><img loading="lazy" class="img_vXGZ">]]></content:encoded>
             <category>paginated-tag</category>
             <category>blog</category>
             <category>docusaurus</category>
@@ -93,7 +93,7 @@
         </item>
         <item>
             <title><![CDATA[Post with duplicate title]]></title>
-            <link>https://juneral.github.io/tests/blog/2021/11/13/dup-title</link>
+            <link>https://juneral.github.io/docusarus_test/tests/blog/2021/11/13/dup-title</link>
             <guid>/2021/11/13/dup-title</guid>
             <pubDate>Sat, 13 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[I hope I'm still here]]></description>
@@ -102,7 +102,7 @@
         </item>
         <item>
             <title><![CDATA[Image-only authors]]></title>
-            <link>https://juneral.github.io/tests/blog/2022/01/20/image-only-authors</link>
+            <link>https://juneral.github.io/docusarus_test/tests/blog/2022/01/20/image-only-authors</link>
             <guid>/2022/01/20/image-only-authors</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[You can make a compact authors list without author names!]]></description>
@@ -111,31 +111,31 @@
         </item>
         <item>
             <title><![CDATA[Third post with footnote to test posts with same footnote reference.]]></title>
-            <link>https://juneral.github.io/tests/blog/2022/01/21/dup-footnote</link>
+            <link>https://juneral.github.io/docusarus_test/tests/blog/2022/01/21/dup-footnote</link>
             <guid>/2022/01/21/dup-footnote</guid>
             <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[foo]]></description>
-            <content:encoded><![CDATA[<p>foo<sup id="fnref-1-969ed2"><a href="#fn-1-969ed2" class="footnote-ref">1</a></sup></p><p>bar<sup id="fnref-2-969ed2"><a href="#fn-2-969ed2" class="footnote-ref">2</a></sup></p><p>baz<sup id="fnref-3-969ed2"><a href="#fn-3-969ed2" class="footnote-ref">3</a></sup></p><div class="footnotes"><hr><ol><li id="fn-1-969ed2">foo<a href="#fnref-1-969ed2" class="footnote-backref">↩</a></li><li id="fn-2-969ed2">bar<a href="#fnref-2-969ed2" class="footnote-backref">↩</a></li><li id="fn-3-969ed2">baz<a href="#fnref-3-969ed2" class="footnote-backref">↩</a></li></ol></div>]]></content:encoded>
+            <content:encoded><![CDATA[<p>foo<sup id="fnref-1-b3b490"><a href="#fn-1-b3b490" class="footnote-ref">1</a></sup></p><p>bar<sup id="fnref-2-b3b490"><a href="#fn-2-b3b490" class="footnote-ref">2</a></sup></p><p>baz<sup id="fnref-3-b3b490"><a href="#fn-3-b3b490" class="footnote-ref">3</a></sup></p><div class="footnotes"><hr><ol><li id="fn-1-b3b490">foo<a href="#fnref-1-b3b490" class="footnote-backref">↩</a></li><li id="fn-2-b3b490">bar<a href="#fnref-2-b3b490" class="footnote-backref">↩</a></li><li id="fn-3-b3b490">baz<a href="#fnref-3-b3b490" class="footnote-backref">↩</a></li></ol></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Second post with footnote to test posts with same footnote reference.]]></title>
-            <link>https://juneral.github.io/tests/blog/2022/01/22/dup-footnote</link>
+            <link>https://juneral.github.io/docusarus_test/tests/blog/2022/01/22/dup-footnote</link>
             <guid>/2022/01/22/dup-footnote</guid>
             <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[foo]]></description>
-            <content:encoded><![CDATA[<p>foo<sup id="fnref-1-aa3a63"><a href="#fn-1-aa3a63" class="footnote-ref">1</a></sup></p><p>bar<sup id="fnref-2-aa3a63"><a href="#fn-2-aa3a63" class="footnote-ref">2</a></sup></p><p>baz<sup id="fnref-3-aa3a63"><a href="#fn-3-aa3a63" class="footnote-ref">3</a></sup></p><div class="footnotes"><hr><ol><li id="fn-1-aa3a63">foo<a href="#fnref-1-aa3a63" class="footnote-backref">↩</a></li><li id="fn-2-aa3a63">bar<a href="#fnref-2-aa3a63" class="footnote-backref">↩</a></li><li id="fn-3-aa3a63">baz<a href="#fnref-3-aa3a63" class="footnote-backref">↩</a></li></ol></div>]]></content:encoded>
+            <content:encoded><![CDATA[<p>foo<sup id="fnref-1-0bd981"><a href="#fn-1-0bd981" class="footnote-ref">1</a></sup></p><p>bar<sup id="fnref-2-0bd981"><a href="#fn-2-0bd981" class="footnote-ref">2</a></sup></p><p>baz<sup id="fnref-3-0bd981"><a href="#fn-3-0bd981" class="footnote-ref">3</a></sup></p><div class="footnotes"><hr><ol><li id="fn-1-0bd981">foo<a href="#fnref-1-0bd981" class="footnote-backref">↩</a></li><li id="fn-2-0bd981">bar<a href="#fnref-2-0bd981" class="footnote-backref">↩</a></li><li id="fn-3-0bd981">baz<a href="#fnref-3-0bd981" class="footnote-backref">↩</a></li></ol></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[First post with footnote to test posts with same footnote reference.]]></title>
-            <link>https://juneral.github.io/tests/blog/2022/04/20/dup-footnote</link>
+            <link>https://juneral.github.io/docusarus_test/tests/blog/2022/04/20/dup-footnote</link>
             <guid>/2022/04/20/dup-footnote</guid>
             <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[foo]]></description>
-            <content:encoded><![CDATA[<p>foo<sup id="fnref-1-07bed1"><a href="#fn-1-07bed1" class="footnote-ref">1</a></sup></p><p>bar<sup id="fnref-2-07bed1"><a href="#fn-2-07bed1" class="footnote-ref">2</a></sup></p><p>baz<sup id="fnref-3-07bed1"><a href="#fn-3-07bed1" class="footnote-ref">3</a></sup></p><div class="footnotes"><hr><ol><li id="fn-1-07bed1">foo<a href="#fnref-1-07bed1" class="footnote-backref">↩</a></li><li id="fn-2-07bed1">bar<a href="#fnref-2-07bed1" class="footnote-backref">↩</a></li><li id="fn-3-07bed1">baz<a href="#fnref-3-07bed1" class="footnote-backref">↩</a></li></ol></div>]]></content:encoded>
+            <content:encoded><![CDATA[<p>foo<sup id="fnref-1-e692db"><a href="#fn-1-e692db" class="footnote-ref">1</a></sup></p><p>bar<sup id="fnref-2-e692db"><a href="#fn-2-e692db" class="footnote-ref">2</a></sup></p><p>baz<sup id="fnref-3-e692db"><a href="#fn-3-e692db" class="footnote-ref">3</a></sup></p><div class="footnotes"><hr><ol><li id="fn-1-e692db">foo<a href="#fnref-1-e692db" class="footnote-backref">↩</a></li><li id="fn-2-e692db">bar<a href="#fnref-2-e692db" class="footnote-backref">↩</a></li><li id="fn-3-e692db">baz<a href="#fnref-3-e692db" class="footnote-backref">↩</a></li></ol></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[A post with html slug]]></title>
-            <link>https://juneral.github.io/tests/blog/x/y/z.html</link>
+            <link>https://juneral.github.io/docusarus_test/tests/blog/x/y/z.html</link>
             <guid>/x/y/z.html</guid>
             <pubDate>Sun, 02 Oct 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[This is a blog post with an html slug!]]></description>
